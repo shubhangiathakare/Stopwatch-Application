@@ -84,7 +84,7 @@ cd Stopwatch-Application
 
 Contributions are welcome and greatly appreciated! If you'd like to contribute to this project, please fork the repository and create a pull request with your changes. Feel free to open issues for any bugs found or enhancements you'd like to suggest.
 
-[(https://roshan-bhadane.github.io/SCT_WD_2/)]
+(https://shubhangiathakare.github.io/Stopwatch-Application/)
 ## Author
 
 [Shubhangi Thakare]([https://github.com/shubhangiathakare])
