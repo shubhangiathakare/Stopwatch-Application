@@ -84,10 +84,7 @@ cd Stopwatch-Application
 
 Contributions are welcome and greatly appreciated! If you'd like to contribute to this project, please fork the repository and create a pull request with your changes. Feel free to open issues for any bugs found or enhancements you'd like to suggest.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
 
-[Shubhangi Thakare]([https://github.com/shubhangiathakare]))
+[Shubhangi Thakare]([https://github.com/shubhangiathakare])
