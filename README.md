@@ -4,7 +4,8 @@
 
 ## Demo
 
-[Live Demo](https://roshan-bhadane.github.io/SCT_WD_2/)
+[Live Demo]https://shubhangiathakare.github.io/Stopwatch-Application/
+
 
 This stopwatch application is fully responsive and follows a mobile-first design approach, ensuring optimal viewing experience across all devices from smartphones to desktop monitors.
 
@@ -84,7 +85,7 @@ cd Stopwatch-Application
 
 Contributions are welcome and greatly appreciated! If you'd like to contribute to this project, please fork the repository and create a pull request with your changes. Feel free to open issues for any bugs found or enhancements you'd like to suggest.
 
-
+[(https://roshan-bhadane.github.io/SCT_WD_2/)]
 ## Author
 
 [Shubhangi Thakare]([https://github.com/shubhangiathakare])
