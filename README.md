@@ -48,10 +48,10 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ```bash
 # Clone the repository
-git clone https://github.com/Roshan-Bhadane/SCT_WD_2.git
+git clone https://github.com/shubhangiathakare/Stopwatch-Application.git
 
 # Navigate to the project directory
-cd SCT_WD_2
+cd Stopwatch-Application
 
 # Open index.html in your browser
 ```
