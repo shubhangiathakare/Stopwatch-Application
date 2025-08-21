@@ -90,4 +90,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-[Roshan Bhadane](https://github.com/Roshan-Bhadane)
+[Shubhangi Thakare]([https://github.com/shubhangiathakare]))
