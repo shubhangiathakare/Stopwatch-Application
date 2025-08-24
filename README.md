@@ -10,7 +10,7 @@ This stopwatch application is fully responsive and follows a mobile-first design
 
 ## Features
 
-- **Precise Timing** - Accurate stopwatch with hours, minutes, seconds, and milliseconds
+- ** Precise Timing** - Accurate stopwatch with hours, minutes, seconds, and milliseconds
 - **Lap & Split Timing** - Record segment times between laps and total elapsed time
 - **Timer Presets** - Quick access to common timer durations (1min, 5min, 10min, 30min, 1hr)
 - **Dark/Light Theme** - Toggle between dark and light modes with persistent preferences
