@@ -3,7 +3,7 @@
 > A modern, feature-rich stopwatch web application with precise timing, theme switching, and data export capabilities.
 
 ## Demo
- 
+  
 [Live Demo](https://shubhangiathakare.github.io/Stopwatch-Application/) 
    
 This stopwatch application is fully responsive and follows a mobile-first design approach, ensuring optimal viewing experience across all devices from smartphones to desktop monitors.
